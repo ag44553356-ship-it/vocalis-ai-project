@@ -1,0 +1,20 @@
+{
+  "name": "vocalis-elevenlabs-studio",
+  "version": "1.0.0",
+  "description": "High-fidelity Neural AI Voice Narration Studio powered by ElevenLabs API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "elevenlabs",
+    "tts",
+    "text-to-speech",
+    "voice-narration",
+    "neural-audio",
+    "audio-visualizer"
+  ],
+  "author": "Arjun",
+  "license": "MIT"
+}
